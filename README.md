@@ -31,7 +31,8 @@ https://www.dropbox.com/scl/fo/7w3o1r2ll1vc4jfpdmolj/h?dl=0&e=1&rlkey=u1kico8nr9
 - если вы используете **poetry**:<br>
     - установить зависимости:<br>
         ```poetry install```
-
+    - войдите в созданное виртуальное окружение:<br>
+        ```poetry shell```
 - если вы используете **virtualenv**:
     - создайте вирутальное окружение :<br>
         ```virtualenv venv```
